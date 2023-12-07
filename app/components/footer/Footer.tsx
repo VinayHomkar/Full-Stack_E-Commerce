@@ -39,7 +39,7 @@ const Footer = () => {
             <p>&copy; {new Date().getFullYear()} E-Shop. All Rights reserved</p>
           </div>
           <FooterList>
-            <h3 className="text-base font-bold mb-2">About Us</h3>
+            <h3 className="text-base font-bold mb-2 ">About Us</h3>
             <div className="flex gap-2">
               <Link href="#">
                 <MdFacebook size={24} />
